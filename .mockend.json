@@ -1,8 +1,9 @@
 {
   "Post": {
+    "id":"string"
     "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "image": "string",
+    "price": "number",
+    "professor": "string"
   }
 }
